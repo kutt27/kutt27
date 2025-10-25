@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Amal
 
-[![GitHub: amal-profile](https://img.shields.io/badge/follow--me-blue?style=social&logo=github)](https://github.com/your-github-username)
+[![GitHub: amal-profile](https://img.shields.io/badge/follow--me-blue?style=social&logo=github)](https://github.com/kutt27)
 [![LinkedIn: Amal](https://img.shields.io/badge/-Amal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/amal-s27/)
 [![Gmail: satheesanamal6](https://img.shields.io/badge/Gmail-satheesanamal6%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:satheesanamal6@gmail.com)
 
