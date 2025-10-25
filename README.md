@@ -6,6 +6,6 @@
 
 I’m a computer science enthusiast exploring the world of Machine Learning and Web Development.
 
-- 🌱 Currently learning: **React, TensorFlow, TypeScript**
-- 💻 Enjoy building projects in ML, web, and algorithms
-- 📫 Reach me at: **satheesanamal6@gmail.com**
+- Currently learning: **React, TensorFlow, TypeScript**
+- Enjoy building projects in ML, AI, Web2, and general CS subjects.
+- Reach me at: **satheesanamal6@gmail.com**
