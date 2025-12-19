@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Amal
+### Amal
 
 [![GitHub: amal-profile](https://img.shields.io/badge/follow--me-blue?style=social&logo=github)](https://github.com/kutt27)
 [![LinkedIn: Amal](https://img.shields.io/badge/-Amal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin/)](https://www.linkedin.com/in/amal-s27/)
@@ -8,4 +8,10 @@ I’m a computer science enthusiast exploring the world of Machine Learning and 
 
 - Currently learning: **React, TensorFlow, TypeScript**
 - Enjoy building projects in ML, AI, Web2, and general CS subjects.
-- Reach me at: **satheesanamal6@gmail.com**
+
+You can reach me at: **satheesanamal6@gmail.com**
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/kutt27/count.svg" alt="Visitor's Count" />
+</div>
