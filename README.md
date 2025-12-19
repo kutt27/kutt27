@@ -12,7 +12,7 @@ You can also visit my drafted portfolio at the profile link to the left of this 
 
 I don't like making things complicated until they break down. In the same philosophy, I made these projects:  
 - [golangdocs](https://golang.amals.xyz/)  
-- [finance-encyclopedia](https://github.com/kutt27/finance-encyclopedia/blob/main/index.html)  
+- [finance-encyclopedia](https://kutt27.github.io/finance-encyclopedia/)  
 
 If you have time, check them out. Liked it / improvements? Reach me at the email below. Love to connect with new faces.
 
