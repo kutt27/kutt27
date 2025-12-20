@@ -4,7 +4,7 @@
 [![LinkedIn: Amal](https://img.shields.io/badge/-Amal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
 [![Gmail: satheesanamal6](https://img.shields.io/badge/Gmail-satheesanamal6%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:satheesanamal6@gmail.com)
 
-I never planned on doing computer science; I always pictured myself as a counsellor—or anyone in a quiet, ordinary job, because of something that stayed true to me always: "empathy". That instinct is still rooted in me, and I wish I could have studied psychology. Even though - I have to learn so much here and there, I'm trying to keep up with the things I really like "now".
+I never planned on doing computer science; I always pictured myself as a counsellor or someone in a quiet, ordinary job, because of something that stayed true to me always: "empathy". That instinct is still rooted in me, and I wish I could have studied psychology. Even though I have to learn so much here and there, I'm trying to keep up with the things I really like "now".
 
 Currently, I'm interested in understanding randomness. {Hoping that the project be born}
 
@@ -20,6 +20,6 @@ If you have time, check it out. Like / improvements? Reach out to me, I love to 
 
 I'm also trying to get into web3 {side projects}. You can see my current projects [here](https://github.com/kutt27).
 
-Currently learning: Things I'm Learning in 2026
+Currently learning: <a href="https://vingt-s.notion.site/Things-I-m-Learning-in-2026-2ce6ad1aa12a806bb8fdcef862c5dd5e" target="_blank" rel="noopener">Things I'm Learning in 2026</a>
 
 Email: satheesanamal6@gmail.com
