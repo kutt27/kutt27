@@ -10,11 +10,11 @@ I write my own blogs at [Reflection](https://reflection.amals.xyz).
 
 You can also visit my drafted portfolio at the profile link to the left of this README. I'm keeping time to update the works there and dropping some sections like "Anthropology."
 
-I don't like making things complicated until they break down. In the same philosophy, I made these projects:  
+I prefer not to make things complicated until they break down. In the same philosophy, I made these projects:  
 - [golangdocs](https://golang.amals.xyz/)  
 - [finance-encyclopedia](https://kutt27.github.io/finance-encyclopedia/)  
 
-If you have time, check them out. Liked it / improvements? Reach me at the email below. Love to connect with new faces.
+If you have time, take a look. Liked it / improvements? Reach me at the email below. Love to connect with new faces.
 
 I'm also trying to get into web3 {side projects}. You can see my current projects [here](https://github.com/kutt27).
 
