@@ -1,7 +1,7 @@
 ### Amal
 
-[![GitHub: amal-profile](https://img.shields.io/badge/follow--me-181717?style=social&logo=github)](https://github.com/amal-profile)
-[![LinkedIn: Amal](https://img.shields.io/badge/-Amal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![GitHub: amal-profile](https://img.shields.io/badge/follow--me-181717?style=social&logo=github)](https://github.com/kutt27)
+[![LinkedIn: Amal](https://img.shields.io/badge/-Amal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-s27/)
 [![Gmail: satheesanamal6](https://img.shields.io/badge/Gmail-satheesanamal6%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:satheesanamal6@gmail.com)
 
 I never planned on doing computer science; I always pictured myself as a counsellor or someone in a quiet, ordinary job, because of something that stayed true to me always: "empathy". That instinct is still rooted in me, and I wish I could have studied psychology. Even though I have to learn so much here and there, I'm trying to keep up with the things I really like "now".
