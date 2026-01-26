@@ -6,7 +6,7 @@
 
 I never planned on doing computer science; I always pictured myself as a counsellor or someone in a quiet, ordinary job, because of something that stayed true to me always: "empathy". That instinct is still rooted in me, and I wish I could have studied psychology. Even though I have to learn so much here and there, I'm trying to keep up with the things I really like "now".
 
-Currently, I'm interested in understanding randomness. {Hoping that the project be born}
+Currently, I'm interested in understanding randomness. {Working well, will update} 
 
 My notebooks live at <a href="https://reflection.amals.xyz" target="_blank" rel="noopener">Reflection</a>.
 
