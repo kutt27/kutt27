@@ -4,21 +4,19 @@
 [![LinkedIn: Amal](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-s27/)
 [![Gmail: satheesanamal6](https://img.shields.io/badge/Gmail-satheesanamal6%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:satheesanamal6@gmail.com)
 
-I never planned on doing computer science; I always pictured myself as a counsellor or someone in a quiet, ordinary job, because of something that stayed true to me always: "empathy". That instinct is still rooted in me, and I wish I could have studied psychology. Even though I have to learn so much here and there, I'm trying to keep up with the things I really like "now".
+CS was not in my bucket list after highschool; my first guess was a counsellor or someone in a quiet, ordinary job, because of: "empathy". Still it rooted to me.
 
-Currently, I'm interested in understanding randomness. {Working well, will update} 
+Dubiously i'm interested in understanding randomness. {first draft made, but needs a lot of fix to be good} 
 
-My notebooks live at <a href="https://reflection.amals.xyz" target="_blank" rel="noopener">Reflection</a>.
+Sometimes I have a plan to make my blog versatile.  <a href="https://reflection.amals.xyz" target="_blank" rel="noopener">Reflection</a>. Although, I currently in a state of whether to change the name "Reflection" to something else even though I really don't want to.
 
-You can also visit my drafted portfolio at the profile link to the left of this README. I'm keeping time to update the works there and vanishing sections like "Anthropology."
+You can also visit my drafted portfolio at the profile link to the left of this README. I haven't updated my work their. Will do soon, when that happens, you won't be reading this.
 
-I keep things simple until they can’t be. In the same thought, I made these projects:
+Some projects:
 - <a href="https://golang.amals.xyz" target="_blank" rel="noopener">golangdocs</a>
 - <a href="https://kutt27.github.io/finance-encyclopedia/" target="_blank" rel="noopener">finance-encyclopedia</a>
 
-If you have time, check it out. Like / improvements? Reach out to me, I love to connect with new faces.
-
-I'm also trying to get into web3 {side projects}. You can see my current projects [here](https://github.com/kutt27).
+Valuable time interested in investing? check it out. Like / improvements? Reach out to me.
 
 Currently learning: <a href="https://vingt-s.notion.site/Things-I-m-Learning-in-2026-2ce6ad1aa12a806bb8fdcef862c5dd5e" target="_blank" rel="noopener">Things I'm Learning in 2026</a>
 
