@@ -8,9 +8,9 @@ CS was not in my bucket list after highschool; my first guess was a counsellor o
 
 Dubiously i'm interested in understanding randomness. {first draft made, but needs a lot of fix to be good} 
 
-Sometimes I have a plan to make my blog versatile.  <a href="https://reflection.amals.xyz" target="_blank" rel="noopener">Reflection</a>. Although, I currently in a state of whether to change the name "Reflection" to something else even though I really don't want to.
+Blog: <a href="https://reflection.amals.xyz" target="_blank" rel="noopener">Reflection</a>
 
-You can also visit my drafted portfolio at the profile link to the left of this README. I haven't updated my work their. Will do soon, when that happens, you won't be reading this.
+You can also visit my drafted portfolio at the profile link to the left of this README. I haven't updated my work their. Will do soon, when that happens, you won't be reading this. Guess there will never be a polished portfolio as works keeps growing.
 
 Some projects:
 - <a href="https://golang.amals.xyz" target="_blank" rel="noopener">golangdocs</a>
