@@ -18,6 +18,4 @@ Some projects:
 - <a href="https://golang.amals.xyz" target="_blank" rel="noopener">golangdocs</a>
 - <a href="https://kutt27.github.io/finance-encyclopedia/" target="_blank" rel="noopener">finance-encyclopedia</a>
 
-Currently learning: <a href="https://vingt-s.notion.site/Things-I-m-Learning-in-2026-2ce6ad1aa12a806bb8fdcef862c5dd5e" target="_blank" rel="noopener">Things I'm Learning in 2026</a>
-
 Email: satheesanamal6@gmail.com
