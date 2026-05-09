@@ -1,16 +1,6 @@
-### Amal
+CS was not in my bucket list after highschool; my first guess was a counsellor or someone in a quiet, ordinary job, because of: "empathy". Still it rooted to me. But life happened.
 
-[![GitHub: amal-profile](https://img.shields.io/badge/follow--me-181717?style=social&logo=github)](https://github.com/kutt27)
-[![LinkedIn: Amal](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-s27/)
-[![Gmail: satheesanamal6](https://img.shields.io/badge/Gmail-satheesanamal6%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:satheesanamal6@gmail.com)
-
-CS was not in my bucket list after highschool; my first guess was a counsellor or someone in a quiet, ordinary job, because of: "empathy". Still it rooted to me.
-
-Dubiously i'm interested in understanding randomness. {first draft made, but needs a lot of fix to be good} 
-
-Blog: <a href="https://reflection.amals.xyz" target="_blank" rel="noopener">Reflection</a>.
-
-Working on to extend than just reflection.
+Blog: <a href="https://reflection.amals.xyz" target="_blank" rel="noopener">Reflection</a>. Blog is still a technical one, I have more drafts than published blogs. I will soon publish it.
 
 You can also visit my drafted portfolio at the profile link to the left of this README. I haven't updated my work their. Will do soon, when that happens, you won't be reading this. => Completely wrong perception.
 
